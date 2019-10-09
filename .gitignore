@@ -1,0 +1,15 @@
+# Ignore the corva credentials file (don't want to share that!)
+/corva_credentials.py
+
+# Ignore all pycache files
+__pycache__/
+*/__pycache__/
+
+# VS Code Files
+/demo.py
+
+# Ignore all .res files
+**.res
+
+# Ignore the virtual environment
+/env/
