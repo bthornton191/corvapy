@@ -1,0 +1,4 @@
+
+class ToolCompatibilityError(Exception):
+    pass
+
